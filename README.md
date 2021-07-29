@@ -1,5 +1,8 @@
 # Checkout payment processing with Checkout Pro
 
+https://www.mercadopago.com.ar/developers/es/guides/online-payments/checkout-pro/integration#bookmark_ejemplos_descargables
+
+
 ### This is a simple example of how you can accept payments by integrating our [Checkout PRO](https://www.mercadopago.com/developers/en/guides/online-payments/checkout-pro/introduction)
 
 ### In this repository you will find two main folders:
